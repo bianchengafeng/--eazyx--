@@ -1,0 +1,62 @@
+﻿  学生信息管理系统.cpp
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(9,1): warning C4005: “NULL”: 宏重定义
+D:\Microsoft Visual Studio\VC\Tools\MSVC\14.37.32822\include\vcruntime.h(233,1): message : 参见“NULL”的前一个定义
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(225,14): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(232,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(235,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(238,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(241,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(244,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(282,14): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(289,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(292,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(295,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(298,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(301,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(340,14): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(347,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(350,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(353,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(356,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(359,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(396,14): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(403,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(406,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(409,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(412,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(415,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(453,14): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(460,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(463,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(466,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(469,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(472,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(510,14): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(517,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(520,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(523,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(526,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(529,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(565,14): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(572,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(575,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(578,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(581,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(584,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(622,14): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(629,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(632,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(635,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(638,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\student_op.h(641,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\学生信息管理系统.cpp(291,25): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\学生信息管理系统.cpp(996,27): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\学生信息管理系统.cpp(1772,28): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\学生信息管理系统.cpp(1900,37): warning C4244: “=”: 从“__int64”转换到“double”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\学生信息管理系统.cpp(1941,32): warning C4244: “=”: 从“__int64”转换到“double”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\学生信息管理系统.cpp(2047,33): warning C4244: “=”: 从“__int64”转换到“double”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\学生信息管理系统.cpp(2086,36): warning C4244: “=”: 从“__int64”转换到“double”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\学生信息管理系统.cpp(2125,42): warning C4244: “=”: 从“__int64”转换到“double”，可能丢失数据
+C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\学生信息管理系统.cpp(3192,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  LINK : 没有找到 C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\x64\Debug\学生信息管理系统.exe 或上一个增量链接没有生成它；正在执行完全链接
+  学生信息管理系统.vcxproj -> C:\Users\30956\Desktop\学习用\学生管理系统--设计\学生信息管理系统\x64\Debug\学生信息管理系统.exe
